@@ -1,5 +1,3 @@
-version: '3'
-
 services:
   web-host:
     build: web/
